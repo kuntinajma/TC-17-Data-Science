@@ -1,1 +1,2 @@
-# TC-17-Data-Science
+# TalentClass by Kemnaker
+# Introduction to Data Science
